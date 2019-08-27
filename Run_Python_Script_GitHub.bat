@@ -1,0 +1,1 @@
+"C:\Users\eduardo.macedo\AppData\Local\Programs\Python\Python37\python.exe" "C:\Users\eduardo.macedo\.vscode\Desktop\SendEmailsWithPython\EnvioQtdFaturas.py"
